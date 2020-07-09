@@ -1,0 +1,27 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+h1 {
+	margin-top:20px;
+	margin-bottom:70px;
+}
+
+.logo {
+	width:100px;
+	height:100px;
+	border:1px solid;
+	position:absolute;
+	top:50px;
+	right:40px;
+}
+
+footer {
+	background-color: black;
+	color: white;
+	width: 100%;
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
